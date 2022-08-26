@@ -1,2 +1,4 @@
 #!/bin/bash
+
 echo "ALX School"
+Resolved merge conflict by pushing the conflicting line one line ahead
